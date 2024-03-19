@@ -1,0 +1,183 @@
+.kilogram{
+    position: fixed;
+    left: 0;
+    top: 0;
+    color: aqua;
+    background-color: royalblue;
+    width: 100%;
+    padding: 10px;
+    border: 5px solid black;
+    z-index: 99999;
+}
+.home{
+    position: fixed;
+    left: 0;
+    top: 100px;
+    color: purple;
+    background-color: plum;
+    width: 25%;
+    padding: 20px;
+    border: 5px solid violet;
+}
+.search{
+    position: fixed;
+    left: 0;
+    top: 200px;
+    color: purple;
+    background-color: plum;
+    width: 25%;
+    padding: 20px;
+    border: 5px solid violet;
+}
+.explore{
+    position: fixed;
+    left: 0;
+    top: 300px;
+    color: purple;
+    background-color: plum;
+    width: 25%;
+    padding: 20px;
+    border: 5px solid violet;
+}
+    
+.reels{
+    position: fixed;
+    left: 0;
+    top: 400px;
+    color: purple;
+    background-color: plum;
+    width: 25%;
+    padding: 20px;
+    border: 5px solid violet;
+}
+
+.messages{
+    position: fixed;
+    left: 0;
+    top: 500px;
+    color: purple;
+    background-color: plum;
+    width: 25%;
+    padding: 20px;
+    border: 5px solid violet;
+}
+.pic1{
+    position: relative;
+    left: 45%;
+    top: 110px;
+    background-color: aqua;
+    color: hotpink;
+    width: 300px;
+    height: 300px;
+    padding: 10px;
+    border: 3px solid white; 
+    margin: 10px;  
+}
+.pic2{
+    position: relative;
+    left: 45%;
+    top: 110px;
+    background-color: aqua;
+    color: hotpink;
+    width: 300px;
+    height: 300px;
+    padding: 10px;
+    border: 3px solid white;   
+    margin: 10px;  
+}
+.pic3{
+    position: relative;
+    left: 45%;
+    top: 110px;
+    background-color: aqua;
+    color: hotpink;
+    width: 300px;
+    height: 300px;
+    padding: 10px;
+    margin: 10px;  
+
+}
+.pic4{
+    position: relative;
+    left: 45%;
+    top: 110px;
+    background-color: aqua;
+    color: hotpink;
+    width: 300px;
+    height: 300px;
+    padding: 10px;
+    margin: 10px;  
+}
+.pic5{
+    position: relative;
+    left: 45%;
+    top: 110px;
+    background-color: aqua;
+    color: hotpink;
+    width: 300px;
+    height: 300px;
+    padding: 10px;
+    margin: 10px;  
+
+}
+.pic6{
+    position: relative;
+    left: 45%;
+    top: 110px;
+    background-color: aqua;
+    color: hotpink;
+    width: 300px;
+    height: 300px;
+    padding: 10px;
+    margin: 10px;  
+}
+.pic7{
+    position: relative;
+    left: 45%;
+    top: 110px;
+    background-color: aqua;
+    color: hotpink;
+    width: 300px;
+    height: 300px;
+    padding: 10px;
+    margin: 10px;  
+}
+.pic8{
+    position: relative;
+    left: 45%;
+    top: 110px;
+    background-color: aqua;
+    color: hotpink;
+    width: 300px;
+    height: 300px;
+    padding: 10px;
+    margin: 10px;  
+}
+.pic9{
+    position: relative;
+    left: 45%;
+    top: 110px;
+    background-color: aqua;
+    color: hotpink;
+    width: 300px;
+    height: 300px;
+    padding: 10px;
+    margin: 10px;  
+}
+.pic10{
+    position: relative;
+    left: 45%;
+    top: 110px;
+    background-color: aqua;
+    color: hotpink;
+    width: 300px;
+    height: 300px;
+    padding: 10px;
+    margin: 10px;  
+}
+img{
+    width: 200px;
+    height: 200px;
+}
+
+
